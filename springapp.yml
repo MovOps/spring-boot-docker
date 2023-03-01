@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: modamisa/spring-boot-mongo
+        image: modamisa/spring-boot-mongo:v2
         ports:
         - containerPort: 8080
         env:
