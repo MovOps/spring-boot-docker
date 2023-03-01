@@ -107,13 +107,13 @@
 	    <repository>
               <id>nexus</id>
               <name>group7-releases</name>
-	      <url>http://http://3.142.40.227:8081/repository/group7/</url> 
+	      <url>http://3.142.40.227:8081/repository/group7/</url> 
             </repository>
 	    
 	    <snapshotRepository>
               <id>nexus</id>
               <name>group-7-snapshot</name>
-              <url>http://http://3.142.40.227:8081/repository/group-7/</url>
+              <url>http://3.142.40.227:8081/repository/group-7/</url>
             </snapshotRepository>
 	    
 	</distributionManagement>
